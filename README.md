@@ -6,9 +6,8 @@
 整理来源：CVPR、ICCV、ECCV、NIPS、ICML、ICLR。  
 共整理280+篇，其中有几篇因为同时涉及attack和defense等多个条目而重复。  
 
-```
-'*** If it helps you, please star it! ***'  
-```
+**If it helps you, please star it!**  :)
+
 
 ## CVPR专场  
 ### 2020年  
